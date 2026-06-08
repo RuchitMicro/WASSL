@@ -469,16 +469,16 @@ WOLFx will not provide false assurances. The honest technical risk register for 
 | Required Deliverable | Status |
 |---|---|
 | Revised Proposal | This Document |
-| Architecture Diagram | Post-Consultation Deliverable |
+| Architecture Diagram | Post-Consultation Deliverable - But initial level architecture is attached for your consideration |
 | Database Diagram | Post-Consultation Deliverable |
 | AI Architecture Diagram | Post-Consultation Deliverable |
 | Security Architecture | Addressed in Section 6 |
-| DevOps Architecture | Addressed in Section 6.4 |
+| DevOps Architecture | Addressed in Section 6.4 - But initial level architecture is attached for your consideration |
 | Team Structure | Section 9.1 |
 | Warranty Terms | Section 9.2 |
 | Support Model | Section 9.3 |
 | Source Code Ownership | Full transfer to client on project completion |
-| Revised Fixed Price | Pending Consultation Session — to be submitted separately |
+| Revised Fixed Price | $150,000 (Pending Consultation Session — we can come to a clear cost breakdown after a short pilot consultation.) |
 | Revised Timeline | Phase 1: 80 days \| Phase 2: 90 days \| Phase 3: 70 days \| Phase 4: TBD |
 
 ---
