@@ -478,7 +478,7 @@ WOLFx will not provide false assurances. The honest technical risk register for 
 | Warranty Terms | Section 9.2 |
 | Support Model | Section 9.3 |
 | Source Code Ownership | Full transfer to client on project completion |
-| Revised Fixed Price | $150,000 (Pending Consultation Session — we can come to a clear cost breakdown after a short pilot consultation.) |
+| Revised Fixed Price | $180,000 (Pending Consultation Session — we can come to a clear cost breakdown after a short pilot consultation.) |
 | Revised Timeline | Phase 1: 80 days \| Phase 2: 90 days \| Phase 3: 70 days \| Phase 4: TBD |
 
 ---
